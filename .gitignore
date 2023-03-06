@@ -1,0 +1,8 @@
+.Rprofile
+.Renviron
+.RData
+.Rhistory
+*.DS_Store
+renv/
+env/
+.Rproj.user/
